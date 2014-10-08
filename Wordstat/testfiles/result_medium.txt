@@ -1,0 +1,26 @@
+Word	Total No. Occurences	No. Case-Sensitive Versions
+ab	6	1
+abc	6	4
+abcd	6	4
+adf12	3	1
+assignment2	3	1
+bdf	3	1
+cd	6	2
+computer	3	1
+computer34	3	1
+d	6	1
+da	3	1
+daf	3	1
+data	6	2
+data34	3	1
+dbf	9	2
+dd	3	1
+pointers	3	1
+programer	3	1
+single	3	1
+string	9	3
+systems	6	2
+systems8	3	1
+ta	3	1
+word	3	1
+wordstat	6	1

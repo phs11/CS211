@@ -1,0 +1,13 @@
+Word	Total No. Occurrences	No. Case-Sensitive Versions
+a	1	1
+d1d	1	1
+each	1	1
+exc1uding	1	1
+if	1	1
+is	1	1
+r1ght	1	1
+sec0nd	1	1
+sh0wn	1	1
+this	1	1
+w0rd	1	1
+y0u	2	2
